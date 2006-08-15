@@ -2,7 +2,7 @@
 # Author: Milad Nekofar (http://www.nekofar.com)
 # Released under the Artistic License
 #
-# $Id: Socializer.pl,v 1.3 2006/07/16 05:45:42 nekofar Exp $
+# $Id:$
 
 package MT::Plugin::Socializer;
 
