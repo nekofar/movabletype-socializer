@@ -2,7 +2,7 @@
 # Author: Milad Nekofar (http://www.nekofar.com)
 # Released under the Artistic License
 #
-# $Id: fa.pm,v 1.1 2006/07/16 05:45:42 nekofar Exp $
+# $Id:$
 
 package Socializer::L10N::fa;
 
