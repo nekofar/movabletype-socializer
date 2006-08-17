@@ -1,22 +1,1 @@
-<?xml version="1.0"?>
-<plugin version="0.2">
-  <name>Socializer</name>
-  <version_url>http://weblog.nekofar.com/Socializer.xml</version_url>
-  <sig>Socializer/Socializer.pl</sig>
-  <icon width="32">../../mt-static/plugins/Socializer/images/icon.gif</icon>
-  <files>
-    <file>
-      <src>plugins/Socializer</src>
-      <destination>plugins/Socializer</destination>
-    </file>
-    <file>
-      <src>mt-static/plugins/Socializer</src>
-      <destination>plugins/Socializer</destination>
-      <static>1</static>
-    </file>
-  </files>
-  <uninstall>
-    <rmdir>plugins/Socializer</rmdir>
-    <rmdir static="1">plugins/Socializer</rmdir>
-  </uninstall>
-</plugin>
+<?xml version="1.0"?><plugin version="0.2">  <name>Socializer</name>  <version_url>http://plugins.movalog.ir/plugin-manager.php?plugin=Socializer</version_url>  <sig>Socializer/Socializer.pl</sig>  <icon width="32">../../mt-static/plugins/Socializer/images/icon.gif</icon>  <files>    <file>      <src>plugins/Socializer</src>      <destination>plugins/Socializer</destination>    </file>    <file>      <src>mt-static/plugins/Socializer</src>      <destination>plugins/Socializer</destination>      <static>1</static>    </file>  </files>  <uninstall>    <rmdir>plugins/Socializer</rmdir>    <rmdir static="1">plugins/Socializer</rmdir>  </uninstall></plugin>
